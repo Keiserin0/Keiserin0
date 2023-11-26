@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Keiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiserin0)](https://github.com/anuraghazra/github-readme-stats)
+[![Keiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keiserin0)]
 
 <!---
 Keiserin0/Keiserin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
