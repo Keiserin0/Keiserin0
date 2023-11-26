@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 
 [![Keiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keiserin0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Keiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=keiserin0&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keiserin0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
