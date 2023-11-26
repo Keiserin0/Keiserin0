@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 [![Keiser's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keiserin0)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keiserin0&layout=compact)]
 
 <!---
 Keiserin0/Keiserin0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
